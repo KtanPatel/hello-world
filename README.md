@@ -2,6 +2,6 @@
 
 hey,
 
-My Name is Ketan. I like to do code. languages are not an issue.;)
+My Name is Ketan. ;)
 
 It is a dummy Project for my experiment. :)
